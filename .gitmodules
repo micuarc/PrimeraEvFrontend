@@ -1,0 +1,12 @@
+[submodule "frontEndTareaClase2"]
+	path = ./tareass/frontEndTareaClase2
+	url = https://github.com/micuarc/frontEndTareaClase2
+[submodule "frontendclase26mar"]
+	path = ./tareass/frontendclase26mar
+	url = https://github.com/micuarc/frontendclase26mar
+
+[submodule "frontendclase26mar"]
+	path = ./tareass/tarea-frontend
+	url = https://github.com/micuarc/tarea-frontend
+
+
